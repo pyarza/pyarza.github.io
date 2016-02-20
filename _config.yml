@@ -9,7 +9,7 @@ title:               PYARZA
 tagline:             'Notas'
 description:         'Notas publicas.<br>Made by <a href="https://twitter.com/pedroyarza" target="_blank">@pedroyarza</a>.'
 url:                 http://pyarza.github.io
-baseurl:             http://pyarza.github.io/
+baseurl:             http://pyarza.github.io
 paginate:            5
 
 # About/contact
