@@ -227,17 +227,17 @@ a.sidebar-nav-item:focus {
   width: 1rem;
   height: .75rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
-  background-image:    -moz-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
-  background-image:     -ms-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
-  background-image:         linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
+  background-image: -webkit-linear-gradient(to bottom, #d28445, #d28445 20%, #fff 20%, #fff 40%, #d28445 40%, #d28445 60%, #fff 60%, #fff 80%, #d28445 80%, #d28445 100%);
+  background-image:    -moz-linear-gradient(to bottom, #d28445, #d28445 20%, #fff 20%, #fff 40%, #d28445 40%, #d28445 60%, #fff 60%, #fff 80%, #d28445 80%, #d28445 100%);
+  background-image:     -ms-linear-gradient(to bottom, #d28445, #d28445 20%, #fff 20%, #fff 40%, #d28445 40%, #d28445 60%, #fff 60%, #fff 80%, #d28445 80%, #d28445 100%);
+  background-image:         linear-gradient(to bottom, #d28445, #d28445 20%, #fff 20%, #fff 40%, #d28445 40%, #d28445 60%, #fff 60%, #fff 80%, #d28445 80%, #d28445 100%);
 }
 
 .sidebar-toggle:active,
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #555;
+  background-color: #d28445;
 }
 
 .sidebar-toggle:active:before,
