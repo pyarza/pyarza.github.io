@@ -45,3 +45,10 @@ MapboxRoundaboutsR	Mapbox	http://api.tiles.mapbox.com/v4/geohacker.roundabouts2/
 ### Transparency
 
 The transparency can be modified on the QGIS layer properties
+
+## Other options
+
+Further options can be testing something like: <http://gis.stackexchange.com/questions/60880/can-the-new-mapbox-vector-tiles-be-used-as-a-qgis-basemap> to try to use the vector version of the **mapbox** maps.
+
+
+
