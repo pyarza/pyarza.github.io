@@ -4,7 +4,7 @@ title:      Roundabouts from MAPBOX
 tags:       GIS
 ---
 
-## Roundbabouts from Mapbox (v4)
+## Roundbabouts from Mapbox
 
 ![Roundabouts - Spain]({{ site.url }}/media/2016/2016_02_24_RotondasEsp.jpg)
 
@@ -25,11 +25,13 @@ Link to the plugin source code: [https://github.com/minorua/TileLayerPlugin]
 
 The general structure of the TSV file (to setup the layers seen from the tilelayer plugin) looks like:
 
-{% highlight text linenos %}
+```
 MapboxStreets	Mapbox	http://api.tiles.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpamVuY3cxbzAwMG12ZGx4cGljbGtqMGUifQ.vpDqms08MBqoRgp667Yz5Q
 MapboxRoundaboutsV	Mapbox	http://api.tiles.mapbox.com/v4/geohacker.roundabouts2/{z}/{x}/{y}.vector.pbf?access_token=pk.eyJ1IjoiZ2VvaGFja2VyIiwiYSI6ImFIN0hENW8ifQ.GGpH9gLyEg0PZf3NPQ7Vrg
 MapboxRoundaboutsR	Mapbox	http://api.tiles.mapbox.com/v4/geohacker.roundabouts2/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZ2VvaGFja2VyIiwiYSI6ImFIN0hENW8ifQ.GGpH9gLyEg0PZf3NPQ7Vrg
-{% endhighlight %}
+```
+With the values seprated by ```tabs```
+
 This one (vector style) doesn't work (with the tilelayer plugin) and it should be the way to go:
 
 ```
