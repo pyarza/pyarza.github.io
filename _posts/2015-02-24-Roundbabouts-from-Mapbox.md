@@ -4,7 +4,7 @@ title:      Roundabouts from MAPBOX
 categories: GIS
 ---
 
-## Roundbabouts from Mapbox
+## Roundbabouts from Mapbox (v2)
 
 ![Roundabouts - Spain]({{ site.url }}/media/2016/2016_02_24_RotondasEsp.jpg)
 
