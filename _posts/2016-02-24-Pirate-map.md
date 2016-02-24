@@ -14,4 +14,6 @@ Can be seen online in:
 
 Found in: <http://blog.fgcartographix.com/index.php/2013/05/29/how-to-add-custom-tiles-as-a-qgis-background/>
 
+<iframe width="100%" height="500px" frameBorder="0" src="http://a.tiles.mapbox.com/v3/aj.Sketchy2.html?secure"></iframe>
+
 
