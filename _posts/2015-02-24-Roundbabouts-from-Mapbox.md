@@ -10,16 +10,14 @@ tags:       GIS
 
 They can be seen on the following web page: <https://www.mapbox.com/bites/00205/#5.53/39.705/-4.149>
 
-
-
 ### On QGIS
 
 To make them visible on QGIS use the following instructions:
 
 - Install plugin TileLayer
-- Follow instructions in <https://cartoblography.wordpress.com/2015/04/28/using-custom-mapbox-baselayers-in-qgis/>
+- Follow instructions in: <https://cartoblography.wordpress.com/2015/04/28/using-custom-mapbox-baselayers-in-qgis/>
 
-Link to the plugin source code: [https://github.com/minorua/TileLayerPlugin]
+Link to the plugin source code: <https://github.com/minorua/TileLayerPlugin>
 
 ### Setup fro QGIS
 
@@ -47,6 +45,3 @@ MapboxRoundaboutsR	Mapbox	http://api.tiles.mapbox.com/v4/geohacker.roundabouts2/
 ### Transparency
 
 The transparency can be modified on the QGIS layer properties
-
-
-
