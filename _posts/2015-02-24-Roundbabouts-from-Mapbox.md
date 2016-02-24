@@ -4,11 +4,11 @@ title:      Roundabouts from MAPBOX
 categories: GIS
 ---
 
-## Roundbabouts from Mapbox (v2)
+## Roundbabouts from Mapbox (v3)
 
 ![Roundabouts - Spain]({{ site.url }}/media/2016/2016_02_24_RotondasEsp.jpg)
 
-They can be seen on the following web page: https://www.mapbox.com/bites/00205/#5.53/39.705/-4.149
+They can be seen on the following web page: [https://www.mapbox.com/bites/00205/#5.53/39.705/-4.149]
 
 
 
@@ -17,9 +17,9 @@ They can be seen on the following web page: https://www.mapbox.com/bites/00205/#
 To make them visible on QGIS use the following instructions:
 
 - Install plugin TileLayer
-- Follow instructions in https://cartoblography.wordpress.com/2015/04/28/using-custom-mapbox-baselayers-in-qgis/
+- Follow instructions in [https://cartoblography.wordpress.com/2015/04/28/using-custom-mapbox-baselayers-in-qgis/]
 
-Link to the plugin source code: https://github.com/minorua/TileLayerPlugin
+Link to the plugin source code: [https://github.com/minorua/TileLayerPlugin]
 
 ### Setup fro QGIS
 
