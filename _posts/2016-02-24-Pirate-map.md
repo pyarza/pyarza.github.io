@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Nice Piratemap with MAPBOX
+title:      Nice Pirate map done with MAPBOX
 tags:       GIS
 ---
 
