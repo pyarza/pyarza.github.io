@@ -16,7 +16,7 @@ If it doesn't work ate least we have a screenshot:
 
 ![Pirate map]({{ site.url }}/media/2016/2016_02_24_PirateMap.jpg)
 
-Found in: <http://blog.fgcartographix.com/index.php/2013/05/29/how-to-add-custom-tiles-as-a-qgis-background/>
+This map was found in the [Cartogra-FIX](http://blog.fgcartographix.com/index.php/2013/05/29/how-to-add-custom-tiles-as-a-qgis-background/) blog. 
 
 
 
