@@ -12,7 +12,7 @@ It should be possible to see  it online in:
 
 <http://a.tiles.mapbox.com/v3/aj.Sketchy2/page.html#5/43.898/9.031>
 
-If it doesn't work ate least we have a screenshot:
+If the link and the embedded map above don't work at least we have a screenshot:
 
 ![Pirate map]({{ site.url }}/media/2016/2016_02_24_PirateMap.jpg)
 
