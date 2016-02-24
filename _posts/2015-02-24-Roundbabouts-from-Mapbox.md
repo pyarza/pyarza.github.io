@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Roundabouts from MAPBOX
-categories: GIS
+tags:       GIS
 ---
 
 ## Roundbabouts from Mapbox (v3)
