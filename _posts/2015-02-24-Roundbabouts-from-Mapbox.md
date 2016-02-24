@@ -17,7 +17,7 @@ They can be seen on the following web page: [https://www.mapbox.com/bites/00205/
 To make them visible on QGIS use the following instructions:
 
 - Install plugin TileLayer
-- Follow instructions in [https://cartoblography.wordpress.com/2015/04/28/using-custom-mapbox-baselayers-in-qgis/]
+- Follow instructions in <https://cartoblography.wordpress.com/2015/04/28/using-custom-mapbox-baselayers-in-qgis/>
 
 Link to the plugin source code: [https://github.com/minorua/TileLayerPlugin]
 
